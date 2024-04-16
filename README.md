@@ -1,4 +1,4 @@
-Hi 👋 My name is YASH
+YASH
 =======================
 
 Web Developer and UI/UX Designer
