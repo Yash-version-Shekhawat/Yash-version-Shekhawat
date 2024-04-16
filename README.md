@@ -7,7 +7,7 @@ Web Developer and UI/UX Designer
 Still don't know how to code🐨
 
 *   🌍  I'm based in Noida, India
-*   ✉️  You can contact me at [yashuitjy112@gmail.com](mailto:yashuitjy112@gmail.com)
+*   ✉️  Don't try to contact me at [yashuitjy112@gmail.com](mailto:yashuitjy112@gmail.com)
 *   ⚡  Watashi wa ningen-o shinjite imasen🔵🔴
    
 Skills
